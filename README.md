@@ -2,7 +2,7 @@
 calculator building in html using javascript and css
 
 
-<img src="https://user-images.githubusercontent.com/105810206/230027958-21f397ea-4def-461b-8078-f05df2ee2238.png" width="350" height="500">
+<img src="https://user-images.githubusercontent.com/105810206/230027958-21f397ea-4def-461b-8078-f05df2ee2238.png" width="175" height="250">
 
 
 Example for addition operation:
@@ -12,3 +12,7 @@ Example for addition operation:
 Result:
 
 <img src="https://user-images.githubusercontent.com/105810206/230029131-6a49bb1d-09eb-4313-a72a-54d72b4ffc30.png" width="175" height="250">
+
+Alert in case entering invalid input:
+
+<img src="https://user-images.githubusercontent.com/105810206/230029941-ca47c753-c9fa-4707-8626-f1da04715a02.png" width="175" height="250">
